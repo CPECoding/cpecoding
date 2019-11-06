@@ -1,0 +1,48 @@
+
+<!Doctype html>
+<html>
+<head>
+<title>Fortnite Information</title>
+<style>
+html, body{
+background-color: #f01d1d;
+	
+}
+.back{
+background-color: #4ccf2b;
+}
+h1, div, p{
+text-align: center;
+}
+</style>
+</head>							
+<body>	
+<h1>FORTNITE INFORMATION</h1>
+<div class="back"> 
+<p>Fortnite is a video game developed by a company named Epic Games.this video game was released on September 26, 2017.the game is released in three district game mode versions that show the same general gameplay and engine:Fortnite:save the world is a cooperative game mode team based with zombies that you can eliminate.you can work to start to gather your equipment.and also you can complete your missions to collect V-Bucks to purchase emotes,items,tools,and skins.Also you can win loot by a legendary or normal loot llama.the next game mode is creative mode:creative is a sand box game mode released on december 6, 2018 it was released only for battle pass owners.others that didn't own the battle pass could play it on december 13 from now then and it is still there now till this day.and we are in chapter 2 season 1.The next game mode is battle royale 100pvp:battle royale 100pvp is team based also the last man standing gets the victory royale.the game modes in battle royale 100pvp are solo,duos,trios,and squads.but trios was getting rereleased in different seasons. and there are different game modes.season 6 chapter 1 had fortnitemares for halloween new mapfeatures and zombies when you eliminate them you can get all types of rarity of loot.fortnite was developed first in 2011 it was teased at the spike video game awards.three weeks after the awards they came up with a way to describe it."a world you explore, scavenge, build, and survive".the platform you can play on are Windows, macOS,Nintendo switch,Playstation 4,Xbox one, iOS, and android.The publisher(s):Epic Games,Warner Bros.interactive Entertainment.</p>
+</div>
+<div>
+<img src="index.jpg" height=400 width=300>
+</div>
+<div>
+<img src="images.jpg" height=400 width=300>
+</div>
+<div>
+<img src="fortniteart.jpg" height=250 width=400>
+</div>
+<div>
+<img src="fortnitenarutorun.jpg" height=200 width=400>
+</div>
+<div>		 	
+<img src="fortnite.jpg" height=250 width=400>
+</div>
+<div>	
+<img src="fortniteimage.jpg" height=250 width=400>	
+</div>	
+<footer>   	
+<p>Copyright &copy; Kobe Harriot</p>
+</footer> 
+ 
+
+</body>
+</html>			
